@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -18,35 +18,33 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Blog Title # Make a title for your blog
-email: author_email@email.com # Add your email 
+title: Christian's DataBlog # Make a title for your blog
+email: cchyang6@gmail.com # Add your email
 description: >- # this means to ignore newlines until "baseurl:"
- Change the description so that it describes your blog
-baseurl: "/my386blog" # keep this the same or change it to the name of the repository 
-url: "https://esnt.github.io" #  change this to "https://<your-github-username>.github.io"
+  Life is an exciting journey that is full of adventures.
+baseurl: "/my386blog" # keep this the same or change it to the name of the repository
+url: "https://yangtommy6.github.io" #  change this to "https://<your-github-username>.github.io"
 image: /assets/images/image5.jpg
-author: Your name
-copyright: ABCD # Your initials or what you want the copyright to be.  Leave empty for no copyright
+author: Christian
+copyright: CY # Your initials or what you want the copyright to be.  Leave empty for no copyright
 
 # Social media users names.  Leave fields blank that you don't want displayed
-twitter_username: 386student
-github_username:  386student
-linkedin_username: 386student
-dribbble_username: 
-facebook_username: 386student
+twitter_username:
+github_username: yangtommy6
+linkedin_username: https://www.linkedin.com/in/christian-yang6/
+dribbble_username:
+facebook_username:
 flickr_username:
-instagram_username: 
+instagram_username:
 pinterest_username:
-youtube_username: 
+youtube_username:
 googleplus_username: 386student
-
 
 # Build settings
 # removed minima theme to a regular theme
 # theme: minima
 plugins:
   - jekyll-feed
-
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
