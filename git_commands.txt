@@ -1,0 +1,8 @@
+  326  git clone git@github.com:esnt/my386blog.git
+  328  git remote set-url origin git@github.com:yangtommy6/my386blog.git
+  329  git status
+  330  git push -u origin main
+  331  git status
+  332  git add .
+  333  git commit -m "hw1"
+  334  git push
