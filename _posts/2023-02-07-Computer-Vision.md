@@ -96,4 +96,4 @@ Try to put different cat or dog's picture and see how the program is able to rec
 
 ## Conclusion
 
-Fast.ai's deep learning course is very practical, although I didn't have any deep learning experience before I started the course, I was able to learn the concepts of deep learning, and implemented them on the fast.ai library. I actually got an cybersecurity analyst partially because of having a basic concept of computer vision and deep learning. I belivev that deep learning is a must have skill for a data science career.
+Fast.ai's deep learning course is very practical, although I didn't have any deep learning experience before I started the course, I was able to learn the concepts of deep learning, and implement them with the fast.ai library. I actually got an cybersecurity analyst internship partially because of having a basic concept of computer vision and deep learning. I believe that deep learning is a must have skill for a data science career.
