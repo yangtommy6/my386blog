@@ -3,7 +3,7 @@ layout: post
 title: "Deep leaning with Fast.ai"
 author: Christian Yang
 description: Using Fast.ai Library to Build a Cat and Dog Image Recognition App
-image:
+image: /Users/christian/Desktop/IMG_5787.jpg
 ---
 
 ## Using Fast.ai Library to Build a Cat and Dog Image Recognition App
