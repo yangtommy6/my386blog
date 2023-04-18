@@ -4,5 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Change this text with information about me and my blog.
+Work hard, have fun, and make history! I am a statistics-Data science student at Brigham Young University.
 
+Connect with me at Linkedin!
+[https://www.linkedin.com/in/christian-yang6/]
